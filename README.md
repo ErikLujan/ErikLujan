@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python, HTML5 and CSS3**
 
-- 📫 How to reach me: **eriklujan2005@gmial.com**
+- 📫 How to reach me: **eriklujan2005@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, play videogames... and coding of course**
 
