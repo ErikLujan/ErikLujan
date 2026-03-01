@@ -1,45 +1,27 @@
-<h1 align="center">Hi 👋, I'm Erik ⛩️</h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Argentina</h3>
+# ¡Hola! Soy Erik Lujan
 
+Soy **Técnico Universitario en Programación** graduado de la UTN. Me especializo en el desarrollo **Backend** con el lenguaje de Python, enfocado en diseñar APIs escalables, gestionar bases de datos relacionales y automatizar procesos, aunque también me meto al Full-Stack cuando el proyecto lo requiere.
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+### 💻 Sobre mí
 
-- 📫 How to reach me: **eriklujan2005@gmail.com**
+* 🚀 Trabajo principalmente con **Python (FastAPI / Flask)** y bases de datos como **PostgreSQL (Supabase)**.
+* 🛠️ También desarrollo del lado del cliente construyendo aplicaciones web con **Angular**.
+* 🎓 Recientemente graduado de la Tecnicatura en Programación en la Universidad Tecnológica Nacional de Avellaneda (UTN).
 
-- ⚡ What I like to do: **I like so much reading, play videogames... and coding of course**
+### 📂 Proyectos Destacados
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+* **[Job Scraper API](https://github.com/ErikLujan/job-scraper-project):** Motor analítico desplegado mediante Docker que extrae, normaliza y persiste ofertas laborales en tiempo real. Construido con FastAPI y Supabase, implementando operaciones de *upsert* para evitar duplicación de datos.
+* **[Clínica OnLine](https://github.com/ErikLujan/Erik-Lujan_Clinica-OnLine-2025):** Aplicación web integral para la gestión de turnos médicos y manejo de historias clínicas. Desarrollada con Angular y Supabase, integrando un sistema robusto de autenticación, gestión de roles (pacientes/especialistas) y bases de datos relacionales en tiempo real.
+* **[WhatsApp Bot de Automatización](https://github.com/ErikLujan/bot-whatsapp-py):** Bot conversacional para atención técnica que gestiona tickets mediante una máquina de estados, integrado con la API de WhatsApp Cloud.
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-lujan-b9369627a/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eriklujan2005@gmail.com)
-  
-</div>
+### ⚙️ Stack Tecnológico
 
-<h3 align="center">Languages and Tools:</h3>
+* **Backend & APIs:** Python, FastAPI, Flask
+* **Frontend:** Angular, HTML5, CSS3, JavaScript
+* **Bases de Datos:** PostgreSQL (Supabase), SQLite
+* **Infraestructura & Herramientas:** Docker, Git, uv, Render, Vercel
 
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-</p>
+### 📬 Contacto
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ErikLujan&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikLujan&theme=react&layout=compact" />
-</p>
-
-------
-
-[ErikLujan](https://github.com/ErikLujan)
-
-Last Edited on: 02/04/2025
+* **Email:** eriklujan2005@gmail.com
+* **LinkedIn:** [Mi Perfil de LinkedIn](https://www.linkedin.com/in/erik-lujan-b9369627a/)
