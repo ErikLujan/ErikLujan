@@ -49,9 +49,9 @@ Soy **Técnico Universitario en Programación** graduado de la UTN. Me especiali
 
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErikLujan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Erik" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikLujan&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErikLujan&theme=tokyonight&hide_border=true" alt="GitHub Streak stats" height="180px"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ErikLujan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&t=1" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ErikLujan&layout=compact&theme=tokyonight&hide_border=true&t=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErikLujan&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 ---
