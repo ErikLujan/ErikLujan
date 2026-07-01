@@ -1,7 +1,7 @@
 # Erik Lujan
 
 <p align="center">
-  <img width="1024" height="256" alt="banner" src="https://github.com/user-attachments/assets/7dc9337c-b0e8-4569-bb71-464a9b2fbef0" />
+  <img width="1024" height="256" alt="banner" src="https://github.com/user-attachments/assets/c212962d-f5ac-4aed-a6c0-1f0f60a24365"/>
 </p>
 
 ### Backend Developer (Python) | Técnico Universitario en Programación
