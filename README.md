@@ -71,5 +71,5 @@ Siempre estoy abierto a charlar sobre arquitectura de software, optimización de
 
 <p align="left">
   <a href="https://www.linkedin.com/in/erik-lujan-b9369627a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Erik Lujan LinkedIn" /></a>
-  <a href="mailto:eriklujan2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Erik Lujan Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eriklujan2005@gmail.com&su=Propuesta%20de%20Trabajo%20-%20Erik%20Lujan&body=Hola%20Erik,%0A%0AHe%20visto%20tu%20portfolio%20y%20me%20gustar%C3%ADa%20hablar%20contigo%20sobre%20una%20oportunidad.%0A%0ASaludos,"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Erik Lujan Email" /></a>
 </p>
