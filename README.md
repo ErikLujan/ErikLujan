@@ -26,7 +26,7 @@ No creo en el código porque sí; mi prioridad es la calidad del producto final.
 
 ## Proyectos Estrella
 
-### [Healix (SaaS Clínico)](https://github.com/ErikLujan/ruta-a-tu-repo-healix)
+### [Healix (SaaS Clínico)](https://github.com/ErikLujan/healix-saas)
 Plataforma médica B2B moderna y escalable para la gestión integral de centros de salud[cite: 23]. Desarrollada como un portfolio profesional de nivel senior[cite: 23].
 - **Arquitectura:** Motor complejo de turnos, historias clínicas dinámicas y sistema de autenticación multi-rol (Pacientes, Especialistas y Admins)[cite: 23].
 - **Seguridad:** Control de acceso estricto (RBAC) amparado por políticas de Row Level Security (RLS) en la base de datos[cite: 23].
